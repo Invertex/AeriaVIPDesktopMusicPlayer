@@ -1,0 +1,44 @@
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria VIP Desktop Music Player.csproj.ResolveComReference.cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria_VIP_Desktop_Music_Player.Form1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria_VIP_Music_Player.Properties.Resources.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria_VIP_Music_Player.Resource1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria VIP Desktop Music Player.csproj.GenerateResource.Cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\bin\Debug\Aeria VIP Music Player.exe.config
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\bin\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\bin\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Music Player\Aeria VIP Music Player\obj\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\bin\Debug\Aeria VIP Music Player.exe.config
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria VIP Desktop Music Player.csproj.ResolveComReference.cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\bin\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\bin\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria VIP Desktop Music Player.csprojResolveAssemblyReference.cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria_VIP_Desktop_Music_Player.Form1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria_VIP_Music_Player.Properties.Resources.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria_VIP_Music_Player.Resource1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\Aeria VIP Desktop Music Player\obj\Debug\Aeria VIP Desktop Music Player.csproj.GenerateResource.Cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\bin\Debug\Aeria VIP Music Player.exe.config
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria VIP Desktop Music Player.csproj.ResolveComReference.cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\bin\Debug\Aeria VIP Music Player.exe
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\bin\Debug\Aeria VIP Music Player.pdb
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\bin\Debug\Interop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria VIP Desktop Music Player.csprojResolveAssemblyReference.cache
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria_VIP_Desktop_Music_Player.Form1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria_VIP_Music_Player.Properties.Resources.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria_VIP_Music_Player.Resource1.resources
+F:\Work\C#\AeriaDesktop\Aeria VIP Desktop Music Player\AeriaVIPDesktopMusicPlayer\obj\Debug\Aeria VIP Desktop Music Player.csproj.GenerateResource.Cache
